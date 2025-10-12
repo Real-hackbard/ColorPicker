@@ -32,3 +32,11 @@ A color space is a specific organization of colors. In combination with color pr
 
 
 A "color space" is a useful conceptual tool for understanding the color capabilities of a particular device or digital file. When trying to reproduce color on another device, color spaces can show whether shadow/highlight detail and color saturation can be retained, and by how much either will be compromised.
+
+</br>
+
+![Websafe Filter](https://github.com/user-attachments/assets/2ef6c9a9-d7eb-4314-9727-640b8a8c1247)
+
+</br>
+
+### Gradient Calculator:
