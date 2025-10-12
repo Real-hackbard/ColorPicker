@@ -1,0 +1,62 @@
+; ScreenSource 2.0
+
+[INFOS]
+FriendlyName=Deutsch
+Author=hackbard
+Date=01/02/2024
+Version=1.0
+
+[STRINGS]
+;Tabs PageControl
+tabMain=Farben
+tabSnaps=Schnitte
+tabOptions=Optionen
+
+;Tab General
+boxGrabbed=Farberfassungen
+lblRGB=RVB:
+
+;Tab Snapshots
+btnDelSnap=Löschen
+btnSaveSnap=Speichern
+
+;Tab Options
+lblColorSpace=Farbraum:
+lblCustomColor=Farben:
+lblFX=Effekte:
+chkHotspot=Hotspot anzeigen
+chkAddLayered=Erfassenung semi-trans.
+chkSysTray=Auf die Taskbar legen.
+chkLayered=Transparent
+chkOnTop=In den Vordergrund stellen.
+chkTaskBar=Sichtbar auf der Taskbar
+lblLng=Sprache:
+
+;Popup
+mnuAbout=&Info...
+mnuRestore=&Restauration
+mnuQuit=&Ende
+
+mnuAbout2=&Info...
+mnuCopy=&Kopieren
+mnuFX=&Effekte
+mnuClose=&Ende
+mnuHotspot=Hotspot anzeigen
+mnuLng=&Sprache
+mnuColor=Farben
+btnPause=&Pause
+btnResume=&Fortsetzen
+mnuSnap=&Schnappschuss
+mnuSysTray=Auf die Taskbar legen.
+mnuTaskBar=Sichtbar auf der Taskbar
+mnuOnTop=In den Vordergrund stellen.
+
+mnuAddLayered=Transparent
+mnuGrab=Farbe erfassen.
+
+;Strings dlgs
+DeleteSnapshot=Schnappschuss löschen '%s' ?
+AddedSnapshot=Schnappschuss '%s' hinzufügen
+Snapshots=Schnappschuss
+Byte=o
+

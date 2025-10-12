@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.234,D:\Incoming\[.WORK]\Color Picker\Color Picker\Unit1.pas=D:\Incoming\[.WORK]\Color Picker\Color Picker\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,D:\Incoming\[.WORK]\Color Picker\Color Picker\ScrnSrc.dproj=D:\Incoming\[.WORK]\Color Picker\Color Picker\ColorPicker.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,D:\Incoming\[.WORK]\Color Picker\Color Picker\Unit1.dfm=D:\Incoming\[.WORK]\Color Picker\Color Picker\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,=D:\Incoming\[.WORK]\Color Picker\Color Picker\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Incoming\[.WORK]\Color Picker\Color Picker\uAbout.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

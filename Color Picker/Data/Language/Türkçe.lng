@@ -1,0 +1,62 @@
+; ScreenSource 2.0
+
+[INFOS]
+FriendlyName=Türkçe
+Author=hackbard
+Date=01/02/2024
+Version=1.0
+
+[STRINGS]
+;Tabs PageControl
+tabMain=Renkler
+tabSnaps=kesikler
+tabOptions=Seçenekler
+
+;Tab General
+boxGrabbed=Renk yakalamalari
+lblRGB=RVB:
+
+;Tab Snapshots
+btnDelSnap=Silmek
+btnSaveSnap=Kaydetmek
+
+;Tab Options
+lblColorSpace=Renk alani:
+lblCustomColor=Renkler:
+lblFX=Etkiler:
+chkHotspot=Hotspot göstermek
+chkAddLayered=Yari trans. kayit.
+chkSysTray=Taskbar yer.
+chkLayered=Transparent
+chkOnTop=Öne çikarmak.
+chkTaskBar=Görev çubugunda görünür
+lblLng=Dil:
+
+;Popup
+mnuAbout=&Bilgi...
+mnuRestore=&restorasyon
+mnuQuit=&Son
+
+mnuAbout2=&Bilgi...
+mnuCopy=&Kopyala
+mnuFX=&Efektler
+mnuClose=&Son
+mnuHotspot=Hotspot göstermek
+mnuLng=&Dil
+mnuColor=Renkler
+btnPause=&duraklatma
+btnResume=&Devam etmek
+mnuSnap=&fotograf
+mnuSysTray=Görev çubuguna yerlestirin.
+mnuTaskBar=Görünür Taskbar
+mnuOnTop=Öne çikarmak.
+
+mnuAddLayered=Transparent
+mnuGrab=Rengi yakalayin.
+
+;Strings dlgs
+DeleteSnapshot=Anlik görüntüyü sil '%s' ?
+AddedSnapshot=enstantane fotograf '%s' eklemek
+Snapshots=enstantane fotograf
+Byte=o
+

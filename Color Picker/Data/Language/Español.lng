@@ -1,0 +1,62 @@
+; ScreenSource 2.0
+
+[INFOS]
+FriendlyName=Español
+Author=hackbard
+Date=01/02/2024
+Version=1.0
+
+[STRINGS]
+;Tabs PageControl
+tabMain=Bandera
+tabSnaps=cortes
+tabOptions=Opciones
+
+;Tab General
+boxGrabbed=Capturas de color
+lblRGB=RVB:
+
+;Tab Snapshots
+btnDelSnap=Borrar
+btnSaveSnap=Ahorrar
+
+;Tab Options
+lblColorSpace=Espacio de color:
+lblCustomColor=Bandera:
+lblFX=Efectos:
+chkHotspot=Hotspot espectáculo
+chkAddLayered=Grabación semitrans.
+chkSysTray=Taskbar lugar.
+chkLayered=Transparent
+chkOnTop=Poner en primer plano.
+chkTaskBar=Visible en el Taskbar
+lblLng=Idioma:
+
+;Popup
+mnuAbout=&Información...
+mnuRestore=&restauración
+mnuQuit=&Fin
+
+mnuAbout2=&Información...
+mnuCopy=&Copiar
+mnuFX=&Efectos
+mnuClose=&Fin
+mnuHotspot=Hotspot espectáculo
+mnuLng=&Idioma
+mnuColor=Bandera
+btnPause=&pausa
+btnResume=&Continuar
+mnuSnap=&instantánea
+mnuSysTray=Taskbar lugar.
+mnuTaskBar=Visible en el Taskbar
+mnuOnTop=Poner en primer plano.
+
+mnuAddLayered=Transparent
+mnuGrab=Captura de color.
+
+;Strings dlgs
+DeleteSnapshot=Eliminar instantánea '%s' ?
+AddedSnapshot=instantánea '%s' agregar
+Snapshots=instantánea
+Byte=o
+
