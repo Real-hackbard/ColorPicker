@@ -50,4 +50,8 @@ In assigning colors to a set of values, a gradient is a continuous colormap, a t
 
 </br>
 
+### Radial gradients:
+A radial gradient is specified as a [circle](https://en.wikipedia.org/wiki/Circle) that has one color at the edge and another at the center. Colors are calculated by linear interpolation based on distance from the center. This can be used to approximate the [diffuse reflection](https://en.wikipedia.org/wiki/Diffuse_reflection) of light from a point source by a [sphere](https://en.wikipedia.org/wiki/Sphere). Both CSS and SVG support radial gradients.
+
+
 
