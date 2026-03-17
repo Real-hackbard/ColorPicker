@@ -8,6 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: Color Picker |
+| 1.0.x   | :white_check_mark: Color Mixer |
 
 ## Reporting a Vulnerability
 
