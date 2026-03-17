@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.525,D:\Incoming\[.WORK]\Color Picker\COLORS\COLORS1.dfm=D:\Incoming\[.WORK]\Color Picker\COLORS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,D:\Incoming\[.WORK]\Color Picker\COLORS\COLORS1.PAS=D:\Incoming\[.WORK]\Color Picker\COLORS\Unit1.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,D:\Incoming\[.WORK]\Color Picker\COLORS\COLORS.dproj=D:\Incoming\[.WORK]\Color Picker\COLORS\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
