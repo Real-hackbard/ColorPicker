@@ -58,3 +58,5 @@ A radial gradient is specified as a [circle](https://en.wikipedia.org/wiki/Circl
 
 </br>
 
+# Update list:
+* [Color Picker](https://github.com/Real-hackbard/ColorPicker/tree/main/Color%20Picker)
