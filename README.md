@@ -63,3 +63,4 @@ A radial gradient is specified as a [circle](https://en.wikipedia.org/wiki/Circl
 * [Color Mixer](https://github.com/Real-hackbard/ColorPicker/tree/main/Color%20Mixer)
 * [Color Ring](https://github.com/Real-hackbard/ColorPicker/tree/main/Color%20Ring)
 * [RGB Channel Picker](https://github.com/Real-hackbard/ColorPicker/tree/main/RGB%20Channel%20Picker)
+* [Web Color](https://github.com/Real-hackbard/ColorPicker/tree/main/Web%20Color)
