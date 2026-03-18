@@ -67,3 +67,4 @@ A radial gradient is specified as a [circle](https://en.wikipedia.org/wiki/Circl
 * [Color Ribbon](https://github.com/Real-hackbard/Color-Picker/tree/main/Color%20Ribbon)
 * [Maxwellb Triangle](https://github.com/Real-hackbard/Color-Picker/tree/main/Maxwellb%20Triangle)
 * [Thin Trackbar](https://github.com/Real-hackbard/Color-Picker/tree/main/Thin%20Trackbar)
+* [Zoom Picker](https://github.com/Real-hackbard/Color-Picker/tree/main/Zoom%20Picker)
